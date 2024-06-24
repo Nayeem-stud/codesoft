@@ -61,8 +61,6 @@ The video appears to be a walkthrough or demonstration of the On-Demand Freelanc
 
 The video provides a comprehensive overview of the landing page, highlighting its design, structure, and functionality.
 
-**Video File**: On-Demand-freelancer.mp4
-
-
-
+**Image File**: 
+![Page 1](LandingPage/Screenshot 2024-06-24 191746.png)
 
