@@ -46,7 +46,7 @@ Check out the live demo of the landing page [here]((https://codesoftl1t1.netlify
 This project was a great way to apply basic HTML and CSS skills in a practical setting. It challenged me to think about layout, design, and user experience. I look forward to more advanced projects in the future.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to me at harisaiparasa@gmail.com.
+If you have any questions or suggestions, feel free to reach out to me at abdul3133@gmail.com.
 
 ## Video Analysis
 The video appears to be a walkthrough or demonstration of the On-Demand Freelancers landing page. Key points to note:
