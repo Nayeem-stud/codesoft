@@ -62,7 +62,7 @@ The video appears to be a walkthrough or demonstration of the On-Demand Freelanc
 The video provides a comprehensive overview of the landing page, highlighting its design, structure, and functionality.
 
 **Image File**: 
-![Alt text](LandingPage/Screenshot 2024-06-24 191746.png)
-![Alt text](which.jpg)
+![Alt text](Screenshot%202024-06-24%20191746.png)
+
 
 
