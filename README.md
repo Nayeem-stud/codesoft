@@ -63,6 +63,8 @@ The video provides a comprehensive overview of the landing page, highlighting it
 
 **Image File**: 
 ![Alt text](LandingPage/page1.png)
+![Alt text](LandingPage/page2.png)
+![Alt text](LandingPage/page3.png)
 
 
 
